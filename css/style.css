@@ -1,3 +1,28 @@
+body {
+  font-size: 16px;
+  color: #222222;
+}
 
+h1 {
+  font-family: montserrat, sans-serif;
+  font-weight: bold;
+}
 
-/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
+h2 {
+  font-family: droid-serif, serif;
+  font-style: italic;
+}
+
+h3 {
+  font-family: montserrat, sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+p {
+  font-family: roboto-slab, serif;
+  color: #777777;
+  font-size: 14px;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFZQTtFQUNJLGVBQUE7RUFDQSxjQVpRO0FDQ1o7O0FEY0E7RUFDSSxtQ0FYTztFQVlQLGlCQUFBO0FDWEo7O0FEY0E7RUFDSSwrQkFqQk87RUFrQlAsa0JBQUE7QUNYSjs7QURjQTtFQUNJLG1DQXJCTztFQXNCUCxpQkFBQTtFQUNBLGVBQUE7QUNYSjs7QURjQTtFQUNJLCtCQTFCUztFQTJCVCxjQS9CVTtFQWdDVixlQUFBO0FDWEoiLCJmaWxlIjoic3R5bGUuY3NzIn0= */

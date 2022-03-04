@@ -2,7 +2,37 @@
 
 $color-one: #222222;
 $color-two: #FED136;
+$color-three: #777777;
 
 $font-one: droid-serif, serif;
 $font-two: montserrat, sans-serif;
 $font-three: roboto-slab, serif;
+
+// Global
+
+body {
+    font-size: 16px;
+    color: $color-one;
+}
+
+h1 {
+    font-family: $font-two;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: $font-one;
+    font-style: italic;
+}
+
+h3 {
+    font-family: $font-two;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+p {
+    font-family: $font-three;
+    color: $color-three;
+    font-size: 14px;
+}
