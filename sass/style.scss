@@ -234,5 +234,17 @@ nav {
 
 // Footer
 
+.footer {
+    padding: 20px 0;
 
+    .col-md-4:first-of-type {
+        text-align: left;
+    }
+
+    i {
+        font-size: 32px;
+        line-height: 50px;
+        padding: 0 10px;
+    }
+}
 
